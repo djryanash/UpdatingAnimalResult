@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA96C5BC-7C0C-4B92-B6AF-3C8A895C0E88"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2850AC45-5230-4A5A-BE0D-12166F7CECB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UpdatingAnimalResult/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "getUpTo30Animals(withAnimalIDs:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2850AC45-5230-4A5A-BE0D-12166F7CECB2 - 4d6a69a52c070ae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for UpdatingAnimalResult.ViewModel.getUpTo30Animals(withAnimalIDs: Swift.Array&lt;Swift.String&gt;) async -&gt; Swift.Optional&lt;UpdatingAnimalResult.iNatAnimalResults&gt;"
+                  moduleName = "UpdatingAnimalResult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanashton/Documents/Xcode%20Projects/UpdatingAnimalResult/UpdatingAnimalResult/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "2850AC45-5230-4A5A-BE0D-12166F7CECB2 - 4d6a69a52c070ae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for UpdatingAnimalResult.ViewModel.getUpTo30Animals(withAnimalIDs: Swift.Array&lt;Swift.String&gt;) async -&gt; Swift.Optional&lt;UpdatingAnimalResult.iNatAnimalResults&gt;"
+                  moduleName = "UpdatingAnimalResult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryanashton/Documents/Xcode%20Projects/UpdatingAnimalResult/UpdatingAnimalResult/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "818">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB1FB1F3-A589-46A9-AE5E-3491C149287A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UpdatingAnimalResult/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "18FA49FC-3CA5-4B49-8BC3-6B7762FA056F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
